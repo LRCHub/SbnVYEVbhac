@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "la salle de bain",
+  "base_artist": "椎名林檎",
+  "createdAt": "2026-02-07T12:01:15.418610Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "la salle de bain",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/01_la_salle_de_bain_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "la salle de bain",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/02_la_salle_de_bain_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "La Salle de Bain",
+      "artist": "Shiina Ringo",
+      "has_synced": false,
+      "path": "select/03_La_Salle_de_Bain_Shiina_Ringo.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "la salle de bain",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/04_la_salle_de_bain_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "La Salle De Bain",
+      "artist": "Serge Lama",
+      "has_synced": true,
+      "path": "select/05_La_Salle_De_Bain_Serge_Lama.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "la salle de bain",
+      "artist": "Shiina Ringo",
+      "has_synced": true,
+      "path": "select/06_la_salle_de_bain_Shiina_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "La Salle de Bain",
+      "artist": "Ringo Sheena",
+      "has_synced": true,
+      "path": "select/07_La_Salle_de_Bain_Ringo_Sheena.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "La Salle de Bain",
+      "artist": "Sheena Ringo",
+      "has_synced": false,
+      "path": "select/08_La_Salle_de_Bain_Sheena_Ringo.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "la salle de bain",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_01_la_salle_de_bain_椎名_林檎.txt"
+    }
+  ]
+}
